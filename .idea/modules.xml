@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EscapingReferences/EscapingReferences.iml" filepath="$PROJECT_DIR$/EscapingReferences/EscapingReferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoryTest/MemoryTest.iml" filepath="$PROJECT_DIR$/MemoryTest/MemoryTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManager/Project.iml" filepath="$PROJECT_DIR$/StudentManager/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftLeaks/SoftLeaks.iml" filepath="$PROJECT_DIR$/SoftLeaks/SoftLeaks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/udemy-java-memory-management.iml" filepath="$PROJECT_DIR$/.idea/udemy-java-memory-management.iml" />
+    </modules>
+  </component>
+</project>

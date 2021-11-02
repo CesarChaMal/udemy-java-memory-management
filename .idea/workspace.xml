@@ -140,48 +140,13 @@
       <workItem from="1575642530687" duration="345000" />
       <workItem from="1620381332178" duration="432000" />
       <workItem from="1628536200631" duration="1160000" />
+      <workItem from="1635702536577" duration="741000" />
+      <workItem from="1635846475409" duration="562000" />
+      <workItem from="1635852462524" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="392" y="77" key="#Project_Structure" timestamp="1575642471940">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state x="392" y="77" key="#Project_Structure/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642471940" />
-    <state x="580" y="112" key="FileChooserDialogImpl" timestamp="1575642734633">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state x="580" y="112" key="FileChooserDialogImpl/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642734633" />
-    <state width="1557" height="195" key="GridCell.Tab.0.bottom" timestamp="1575642875249">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state width="1557" height="195" key="GridCell.Tab.0.bottom/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642875249" />
-    <state width="1557" height="195" key="GridCell.Tab.0.center" timestamp="1575642875249">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state width="1557" height="195" key="GridCell.Tab.0.center/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642875249" />
-    <state width="1557" height="195" key="GridCell.Tab.0.left" timestamp="1575642875249">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state width="1557" height="195" key="GridCell.Tab.0.left/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642875249" />
-    <state width="1557" height="195" key="GridCell.Tab.0.right" timestamp="1575642875249">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state width="1557" height="195" key="GridCell.Tab.0.right/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642875249" />
-    <state x="460" y="38" width="690" height="763" key="NewModule_or_Project.wizard" timestamp="1575642781930">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state x="460" y="38" width="690" height="763" key="NewModule_or_Project.wizard/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642781930" />
-    <state x="280" y="0" key="SettingsEditor" timestamp="1575642790789">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state x="280" y="0" key="SettingsEditor/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642790789" />
-    <state x="616" y="196" key="chooseDestDirectoryDialog" timestamp="1575642433397">
-      <screen x="0" y="0" width="1600" height="839" />
-    </state>
-    <state x="616" y="196" key="chooseDestDirectoryDialog/0.0.1600.839/1600.0.4096.2130@0.0.1600.839" timestamp="1575642433397" />
   </component>
 </project>

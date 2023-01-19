@@ -1,0 +1,16 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š²Ä…
+Q	java:S125"<This block of commented-out lines of code should be removed.(ª¦²Œ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‡÷¤€
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ø¿âÿÿÿÿÿ
+t
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+^
+java:S2276("CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ
+M
+java:S1135*"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ý¦ü

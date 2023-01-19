@@ -7,6 +7,9 @@
     <option name="skipTestSources" value="false" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8_x64" project-jdk-type="JavaSDK">
-    <output url="file://build" />
+    <output url="file://$APPLICATION_HOME_DIR$/jbr/bin/build" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>
